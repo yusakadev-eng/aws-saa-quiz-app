@@ -12,9 +12,9 @@ AWS Solutions Architect Associate（SAA）の試験対策として、AIが解説
 
 ---
 
-## 🖼️ スクリーンショット
+## 🖼️ デモ
 
-> ※ 動作画面のスクリーンショットをここに追加してください
+![デモ](docs/demo.gif)
 
 ---
 
