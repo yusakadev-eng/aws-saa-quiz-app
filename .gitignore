@@ -1,0 +1,12 @@
+# 環境変数（APIキーを含むため絶対にGitHubにあげない）
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Streamlit
+.streamlit/
